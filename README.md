@@ -2,6 +2,7 @@
 
 **Número da Lista**: 4<br>
 **Conteúdo da Disciplina**: Dividir para conquistar<br>
+**Número da Dupla**: 13<br>
 
 ## Alunos
 |Matrícula | Aluno |
